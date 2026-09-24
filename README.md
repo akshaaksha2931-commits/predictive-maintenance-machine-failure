@@ -84,3 +84,12 @@ than the lower tool-wear groups.
 - Time-based validation
 - Investigation of possible data leakage
 - Model deployment using an API or web application
+## Model Evaluation
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+### Feature Importance
+
+![Feature Importance](feature_importance.png)
